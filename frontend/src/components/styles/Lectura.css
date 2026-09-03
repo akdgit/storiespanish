@@ -1,0 +1,12 @@
+.aud {
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+audio {
+    width: 70%;
+}
+
+.lectura{
+    width: 100%;
+}

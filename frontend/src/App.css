@@ -1,0 +1,13 @@
+.principal {
+  flex-wrap: wrap;  
+}
+
+footer {
+  background-color: darkblue;
+  padding: 20px;
+  text-align: center;
+  color:antiquewhite
+  margin-top: 40px;
+  font-size: 12px;
+  font-family: 'Arial', sans-serif;
+}

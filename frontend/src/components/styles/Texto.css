@@ -1,0 +1,12 @@
+.acor {
+   font-size: 1.5rem;
+   font-family: 'Roboto';
+   border-bottom: 2px solid lightblue;
+}
+
+P {
+   font-size: 1.25rem;
+   font-family: 'Roboto';
+   margin: 1rem;
+   padding: 5px;
+}
