@@ -194,6 +194,10 @@ const Ejercicio1 = ({ palabras }) => {
 
     }
 
+    const limpiarRespuestas = () => {
+    setRespuestas([]);
+};
+
 
     return (
 
@@ -296,6 +300,14 @@ const Ejercicio1 = ({ palabras }) => {
                         {respuestas.length} / 3
 
                     </p>
+
+                    <button
+                        type="button"
+                        className="btn btn-secondary"
+                        onClick={limpiarRespuestas}
+                    >
+                        Limpiar respuestas
+                    </button>
 
                 </div>
 
