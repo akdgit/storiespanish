@@ -105,14 +105,14 @@ function App() {
                 preg="3.- ¿Qué estaban transmitiendo por TV?"
                 respuesta="A.- El partido del FC Barcelona."
                 opc="❌ INCORRECTO. Inténtalo otra vez."
-                respuesta2="B.- Caricaturas en lugar del telediario."
-                opc2="✅ ¡CORRECTO!  También podría decirse 'Dibujos animados en vez del noticiero'."
+                respuesta2="B.- Dibujos animados en lugar del telediario."
+                opc2="✅ ¡CORRECTO!  También podría decirse 'Caricaturas en vez del noticiero'."
                 respuesta3="C.- Una película de accion."
                 opc3="❌ INCORRECTO. Inténtalo otra vez."
             />
             <CompLectora
                 id="pregunta4"
-                preg="4.- ¿Qué le hizo notar a nuestro personaje el guardia de seguridad?"
+                preg="4.- ¿Qué le hizo notar a nuestro personaje el portero del edificio?"
                 respuesta="A.- Que iba muy tarde a trabajar."
                 opc="❌ INCORRECTO. Inténtalo otra vez."
                 respuesta2="B.- Que se levantó muy temprano."
